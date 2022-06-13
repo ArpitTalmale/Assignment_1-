@@ -1,0 +1,139 @@
+                                                         Assignment_1
+
+
+
+Que:-1
+
+Solution:-
+
+      Integre:- 1) -87.8
+                2) 6
+
+      String:-  1) 'hello'
+Mathematical Operator:- * , - , / , +
+
+Que:-2
+
+Solution:-
+
+      Variable is the name given to a memory location in a program and it is used to store the value and string is a                   sequence of characters or also define as a series of characters.
+
+      example of varibale:- a = 5 here "a" is work as a container and a = 5 become variable.
+      example of String:- 1) 'ineuron' it is string.
+                          2) 'data engineer' it is also string.
+Que:-3
+
+Solution:- Data type are the classification of data items.
+
+       Three different data type are:-
+
+       1) Numeric Type
+
+          In numeric there are integer,Complex number and float.
+
+          examples:- Integer define as just a number like 2, 60, 100.
+                     complex number is combination of real and imaginary part, like 45+3j ,where 45 is a real part and 3j is                          imaginary part of complex number.
+                     float is like 34.5 ,like this we define the floating number.
+       2) Sequence Type
+
+          In sequence type there are list, tuple.
+
+          example:-  list define as a container to store a set of values of any data type.
+                     like,  list = ["cars" , " bus" , 7  ] 
+
+                     tuple is another data type in python and tuple cannot be manipulated once it is define.
+                     like,  tuple = (1,5,6) 
+
+       3) Set Type
+
+          In set data type it is used to store multiple items in a one single variable and set data type is        unodered,unindexed,unchangeable.But we can add items by doing some python operation on particular set which we defined during  the operation.
+
+          example:- set = {"mobile" , "television"}
+                    # To add one item in set:
+
+                    set.add("cycle")
+                    print(set)
+                    output:-{"cycle", "mobile", "television"}
+Que:-4
+
+Solution:-
+
+     An expression in python represent the sequence of string,tuple,list,set and expression is sequence that evaluates to a          value.
+
+     like,  a = expression  , so expression always leads in right-hand side of an assinment or called as container.
+Que:-5
+
+Solution:-
+
+     Statement defined as,  it perform some action or task when it is define in programme or statement is a line of code              that will not print any value on the screen  and expression evaluate to a value during the operation or programme.
+
+     example:- 
+
+              a = 10   (#it is a statment )
+              b = a + 2   (#it is an expression)
+              print(b) 
+
+              output:-   12
+Que:-6
+
+Solution:-
+
+       baccon = 22
+       print(bacon+1)
+
+       output:- 23   (# it is an integer type) 
+Que:-7
+
+Solution:-
+
+       1) 'spam' + 'spamspam'
+
+        output:- spamspamspam
+
+       2) 'spam'*3
+
+        output:- spamspamspam
+Que:-8
+
+Solution:-
+
+       eggs is a valid variable name instead of 100 because as per the certain rules for python variable like variable name
+       can only starts with underscore,alphabets,letters.
+
+       example:- eggs = "spam"
+                 print(eggs) 
+                 output:- spam
+
+                 so above example valid for assign a variable name eggs.
+
+       example:- 100 = "spam"
+                 print(100)
+                 output:- error
+
+       example:- eggs_100 = "spam"
+                 print(eggs_100)
+                 output:- spam
+
+                 so the variable name eggs_100 is valid as per the python varibale rule so that's is the reason it will run                      and excute our code properly.
+Que:-9
+
+Solution:-
+
+      The three functions are int(),str(),and float().
+
+      There are many functions to convert one data type to other.
+
+      example:- str(35) = "35"  (# integer to string conversion)
+                int("35") = 35  (# string to integer conversion)
+                float(35) = 35.0 (# integer to float conversion)
+Que:-10
+
+Solution:-
+
+      Given expression is 'i have eaten'+ 99 + 'burritos'
+      if we run the above expression we get a typeerror and it says that can only concatenate string to string not integer
+      so for solving this typeerror we first convert integer to string then only we excute the expression successfully.
+
+      a = 'i have eaten' + ' 99 ' + 'burritos'  (# here we create complete string)
+      print(a)
+      output:- i have eaten 99 burritos 
