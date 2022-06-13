@@ -1,4 +1,4 @@
-                                                         Assignment_1
+                                                              Assignment_1
 
 
 
@@ -57,6 +57,7 @@ Solution:- Data type are the classification of data items.
                     set.add("cycle")
                     print(set)
                     output:-{"cycle", "mobile", "television"}
+                    
 Que:-4
 
 Solution:-
@@ -64,6 +65,7 @@ Solution:-
      An expression in python represent the sequence of string,tuple,list,set and expression is sequence that evaluates to a value.
 
      like,  a = expression  , so expression always leads in right-hand side of an assinment or called as container.
+     
      
 Que:-5
 
