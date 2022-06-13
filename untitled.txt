@@ -16,11 +16,13 @@ Que:-2
 
 Solution:-
 
-      Variable is the name given to a memory location in a program and it is used to store the value and string is a                   sequence of characters or also define as a series of characters.
+      Variable is the name given to a memory location in a program and it is used to store the value and string is a sequence of characters or also define as a series       of characters.
 
       example of varibale:- a = 5 here "a" is work as a container and a = 5 become variable.
       example of String:- 1) 'ineuron' it is string.
                           2) 'data engineer' it is also string.
+                          
+                          
 Que:-3
 
 Solution:- Data type are the classification of data items.
@@ -32,8 +34,9 @@ Solution:- Data type are the classification of data items.
           In numeric there are integer,Complex number and float.
 
           examples:- Integer define as just a number like 2, 60, 100.
-                     complex number is combination of real and imaginary part, like 45+3j ,where 45 is a real part and 3j is                          imaginary part of complex number.
+                     complex number is combination of real and imaginary part, like 45+3j ,where 45 is a real part and 3j is imaginary part of complex number.
                      float is like 34.5 ,like this we define the floating number.
+                     
        2) Sequence Type
 
           In sequence type there are list, tuple.
@@ -46,7 +49,7 @@ Solution:- Data type are the classification of data items.
 
        3) Set Type
 
-          In set data type it is used to store multiple items in a one single variable and set data type is        unodered,unindexed,unchangeable.But we can add items by doing some python operation on particular set which we defined during  the operation.
+          In set data type it is used to store multiple items in a one single variable and set data type is unodered,unindexed,unchangeable.But we can add items by               doing some python operation on particular set which we defined during the operation.
 
           example:- set = {"mobile" , "television"}
                     # To add one item in set:
@@ -58,14 +61,15 @@ Que:-4
 
 Solution:-
 
-     An expression in python represent the sequence of string,tuple,list,set and expression is sequence that evaluates to a          value.
+     An expression in python represent the sequence of string,tuple,list,set and expression is sequence that evaluates to a value.
 
      like,  a = expression  , so expression always leads in right-hand side of an assinment or called as container.
+     
 Que:-5
 
 Solution:-
 
-     Statement defined as,  it perform some action or task when it is define in programme or statement is a line of code              that will not print any value on the screen  and expression evaluate to a value during the operation or programme.
+     Statement defined as,  it perform some action or task when it is define in programme or statement is a line of code that will not print any value on the screen        and expression evaluate to a value during the operation or programme.
 
      example:- 
 
@@ -74,6 +78,7 @@ Solution:-
               print(b) 
 
               output:-   12
+              
 Que:-6
 
 Solution:-
@@ -82,6 +87,8 @@ Solution:-
        print(bacon+1)
 
        output:- 23   (# it is an integer type) 
+       
+       
 Que:-7
 
 Solution:-
@@ -93,6 +100,8 @@ Solution:-
        2) 'spam'*3
 
         output:- spamspamspam
+        
+        
 Que:-8
 
 Solution:-
@@ -114,7 +123,8 @@ Solution:-
                  print(eggs_100)
                  output:- spam
 
-                 so the variable name eggs_100 is valid as per the python varibale rule so that's is the reason it will run                      and excute our code properly.
+                 so the variable name eggs_100 is valid as per the python varibale rule so that's is the reason it will run and excute our code properly.
+                 
 Que:-9
 
 Solution:-
@@ -126,6 +136,7 @@ Solution:-
       example:- str(35) = "35"  (# integer to string conversion)
                 int("35") = 35  (# string to integer conversion)
                 float(35) = 35.0 (# integer to float conversion)
+                
 Que:-10
 
 Solution:-
